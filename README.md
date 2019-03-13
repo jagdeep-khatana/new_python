@@ -1,1 +1,1 @@
-# new_python
+# django-todo
